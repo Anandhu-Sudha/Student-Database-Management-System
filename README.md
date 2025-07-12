@@ -22,5 +22,5 @@ A personal project developed in **C** to manage student records using **singly l
 
 This project was built to practice and strengthen core skills in C programming, including data structures and file I/O, by developing a fully functional console-based student management system.
 
-## SOURCE CODE IS PROVIDED IN THE CODE SECTION
+## SOURCE CODE IS PROVIDED IN THE DIRECTORY
 
